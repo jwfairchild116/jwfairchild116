@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jwfairchild116/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jwfairchild116/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jwfairchild116/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jwfairchild116/azure-network-protocols)
+  - [Setting up a Domain Controler in Azure](https://github.com/jwfairchild116/configure-ad)
+  - [Configuring and creating a Domain in Windows Server 2022](https://github.com/jwfairchild116/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
