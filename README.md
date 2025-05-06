@@ -8,7 +8,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jwfairchild116/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Setting up a Domain Controler in Azure](https://github.com/jwfairchild116/configure-ad)
-  - [Configuring and creating a Domain in Windows Server 2022](https://github.com/jwfairchild116/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
